@@ -29,7 +29,7 @@ div.text {
   font-size: 22px;
 }
 
-.child {
+.text.child {
   color: red;
   font-size: 14px;
 }
