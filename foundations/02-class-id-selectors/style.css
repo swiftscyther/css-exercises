@@ -1,0 +1,22 @@
+/* styles.cc */
+
+.odd-element
+.font-size-1{
+    background-color: rgba(253, 0, 0, 0.5);
+    fallback: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.font-size-1{
+    font-size: 24px;
+}
+
+#number2{
+    color:rgb(0,0,255);
+    font-size: 36px;
+}
+
+#number4{
+    background-color: rgba(0, 128, 0, 0.5);
+    font-size: 24px;
+    font-weight: bold;
+}
