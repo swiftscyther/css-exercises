@@ -1,6 +1,6 @@
 /* style.css */
 
-.container p{
+.container.text{
     background-color: yellow;
     color: red;
     font-size: 20px;
